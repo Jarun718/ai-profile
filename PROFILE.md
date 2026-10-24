@@ -14,7 +14,6 @@
 ## 学习情况
 
 - 学校：安徽艺术学院，2025 年入学 ✅
-- 班级：**管弦班** ✅（2026-10-25 用户本人告知）
 - 专业：音乐表演，萨克斯方向 ✅
 - 职务：现任班级副班长 ✅
 - 本学期：2026 年 9 月 7 日 – 2027 年 1 月 16 日 ✅
@@ -34,6 +33,13 @@
 
 - 主力手机：iPhone 17 Pro Max ✅
 - 其他设备：iPhone 7 / 5s / 8 Plus、iPad Pro、iPad 2、Apple Watch Ultra 2、Windows 游戏本（ROG）、小米手机 ✅
+- 2026-10-25 根据 Apple 账户设备列表更新（截图来源）：
+  - 当前设备：Jarun 的 iPhone（iPhone 17 Pro Max）
+  - iPhone：iPhone 7（设备名“0”）、iPhone 5s、iPhone 8 Plus、iPhone 6 Plus（新增，此前未记录）
+  - iPad：Run 的 iPad（iPad Pro）、王佳润的 iPad（iPad 2）
+  - Windows：JARUN-ROG
+  - Apple Watch：Jarun 的 Apple Watch（Series 12）、王佳润的 Apple Watch（Series 12）
+  - ❓待确认：此前记录为 Apple Watch Ultra 2，与本次截图的 Series 12 不一致，待确认是已换表还是此前记录有误；小米手机不在 Apple 账户列表中（安卓设备，属正常）
 - 常用软件：WPS、Sibelius（乐谱编配/制谱）、Audacity ✅
 - 网络：iPhone 上用 Shadowrocket，维护一份自定义配置；了解其策略组机制（url-test 只看延迟，不按下载速度选节点）✅
 - 日历：用 iPhone 自带日历 App，不用 Google 日历 ✅
@@ -44,35 +50,3 @@
 - 复杂任务分步骤、每步确认后再继续
 - 固定时间的提醒必须先经本人确认再设置
 - 查天气优先墨迹天气，墨迹不可用时改用和风天气
-
-## 2026-10-25 记忆补充（管家核对，与档案比对后新增；均待你确认）
-
-### 身体数据
-
-- 身高 186cm、体重 88kg（2026-10 自述）🔶
-- 生日具体日期：❓待补充
-
-### 设备归属细化（Apple 账号绑定清单，2026-10 管家记录）
-
-- Jarun 的 iPhone（iPhone 17 Pro Max）、iPhone 7、iPhone 5s、JARUN-ROG（Windows）、NIO ET5T-078829（iPhone 8 Plus）、Run 的 iPad（iPad Pro）、Run 的 Apple Watch（Ultra 2）、王佳润 的 iPad（iPad 2）、王佳润 的 iPhone（iPhone 6 Plus）✅
-- 注：清单中含一台 iPhone 6 Plus（王佳润名下），与档案原设备清单不同，待确认归属
-
-### 社交与直播关注
-
-- 关注直播平台粉丝团等级与亲密度换算、抖音等级钻石消耗、直播圈动态（如 u4 直播间节奏）✅
-- 关注抖音 AI 漫剧、天涯论坛等历史社交平台 ✅
-
-### 音乐
-
-- 流行音乐乐理查询（如调式、k46 和弦）；曾关注林俊杰《心墙》调式 ✅
-- 古筝琴弦选购 ✅
-- 安徽地方音乐（如"倒七戏"）✅
-
-### 创作
-
-- 视频剪辑：无畏契约击杀集锦、剪映卡点、追求"百万剪辑师"质感 ✅
-- 抖音 AI 漫剧全流程剧本与分镜 ✅
-
-### 旅行
-
-- 成都、都江堰、重庆旅游攻略 ✅
