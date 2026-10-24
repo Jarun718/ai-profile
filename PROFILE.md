@@ -39,7 +39,7 @@
   - iPad：Run 的 iPad（iPad Pro）、王佳润的 iPad（iPad 2）
   - Windows：JARUN-ROG
   - Apple Watch：Jarun 的 Apple Watch（Series 12）、王佳润的 Apple Watch（Series 12）
-  - ❓待确认：此前记录为 Apple Watch Ultra 2，与本次截图的 Series 12 不一致，待确认是已换表还是此前记录有误；小米手机不在 Apple 账户列表中（安卓设备，属正常）
+  - 已确认（2026-10-25 用户本人确认）：已换表，此前记录的 Apple Watch Ultra 2 为旧记录，现为两条 Series 12；小米手机不在 Apple 账户列表中（安卓设备，属正常）
 - 常用软件：WPS、Sibelius（乐谱编配/制谱）、Audacity ✅
 - 网络：iPhone 上用 Shadowrocket，维护一份自定义配置；了解其策略组机制（url-test 只看延迟，不按下载速度选节点）✅
 - 日历：用 iPhone 自带日历 App，不用 Google 日历 ✅
