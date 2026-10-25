@@ -5,15 +5,16 @@
 ## 2026-10-25
 
 - 创建：README.md、PROFILE.md、PREFERENCES.md、GOALS.md、PROJECTS.md、MEMORY.md、AI_INSTRUCTIONS.md（首版可迁移档案）
-- 修改：AI_INSTRUCTIONS.md、README.md（新增记忆自动更新与维护规则：不删除原文、不静默覆盖、不擅自改变观点、不编造、不把外部资料写成原创观点；不确定写“待确认”，缺信息写“待补充”；批量修改后列出全部创建和修改的文件）
+- 修改：AI_INSTRUCTIONS.md、README.md（新增记忆自动更新与维护规则）
 - 创建：CHANGELOG.md（本文件）
 - 删除：USER.md、AGENTS.md（已被新结构覆盖）
 
-## 2026-10-25（第二次，管家记忆核对补充）
+## 2026-10-25（第二次，记忆补充）
 
-- 修改：PROFILE.md（追加身体数据、设备归属、社交/音乐/创作/旅行新增条目）
-- 修改：PREFERENCES.md（追加十条核心服务规矩与交互偏好）
-- 修改：GOALS.md（追加考证咨询与学业荣誉目标）
-- 修改：PROJECTS.md（追加创作类项目）
-- 修改：MEMORY.md（追加冲突待确认与已完成任务）
-- 修改：CHANGELOG.md（本文件，记录本次批量修改）
+- 修改：PREFERENCES.md、GOALS.md、MEMORY.md（追加 2026-10-25 记忆补充：交互偏好、考证咨询、已完成任务、冲突待确认）
+- 注：此前一条记录曾写 PROFILE.md、PROJECTS.md 也有追加，实际未发生，特此更正
+
+## 2026-10-25（第三次，整理优化）
+
+- 优化全部 8 个文件：一处一事实，删除跨文件重复；取消每行 ✅/🔶 标记（无标记 = 已确认，❓ = 待确认）；设备改为当前清单 + 旧记录一行； vague 的补充条目合并为一行并保留原意；更正第二次 CHANGELOG 中与实际不符的部分
+- 删除的无意义内容：PROFILE.md 的“稳定偏好摘要”（与 PREFERENCES.md 重复）；README.md 的“维护规则”一节（与 AI_INSTRUCTIONS.md 重复）；GOALS.md 的学期行（与 PROFILE.md 重复）；PROJECTS.md 天气提醒的规则复述（规则只留 PREFERENCES.md）；MEMORY.md 的小火箭机制复述（机制只留 PROJECTS.md）；PREFERENCES.md 的“十条核心服务规矩”空泛概括（具体规则已在 AI_INSTRUCTIONS.md）；“提供针对性回答建议（2026-07-18）”无上下文单句
